@@ -1,0 +1,27 @@
+#f {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    
+    margin-left: 270px;
+  }
+  #f td, #f th {
+    border: 1px solid #ddd;
+    padding: 12px;
+  }
+  #f tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #f tr:nth-child(odd){background-color: #f2f2f2;}
+  
+  #f th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+    width: 30px;
+  }
+  .center{
+    z-index: auto;
+    margin-top: 30px;
+  }
